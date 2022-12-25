@@ -14,5 +14,5 @@
 ##
 
 <div>
-![Snake animation](https://github.com/julio-mello/julio-mello/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Julio-Mello/Julio-Mello/blob/output/github-contribution-grid-snake.svg)
 </div>
