@@ -1,4 +1,4 @@
-### Olá, mundo!
+### Olá, curioso :eyes:! Seja bem vindo(a) ao meu GitHub e espero que goste do que encontrar aqui.
 ##
 
 <div>
