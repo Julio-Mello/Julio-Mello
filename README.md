@@ -19,3 +19,4 @@ Sou iniciante no front-end (famoso noob) e as tecnologias que estou aprendendo s
 </div>
   
 ##
+![Snake animation](https://github.com/Julio-Mello/Julio-Mello/blob/output/github-contribution-grid-snake.svg)
