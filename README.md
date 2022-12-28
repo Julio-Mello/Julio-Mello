@@ -1,4 +1,4 @@
-### Olá, curioso :eyes:! Seja bem vindo(a) ao meu GitHub espero que goste do que encontrar aqui.
+### Olá, curioso :eyes:! Seja bem vindo(a) ao meu GitHub, espero que goste do que encontrar aqui.
 Tenho formação em História e Gastronomia. Recentemente comecei a estudar front-end e pretendo migrar para TI. 
 ##
 
