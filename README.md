@@ -8,7 +8,7 @@ Tenho formação em **História** e **Gastronomia**. Recentemente comecei a estu
 </div>
 
 ##
-##Sou iniciante no front-end (famoso noob) e as tecnologias que estou aprendendo são:
+## Sou iniciante no front-end (famoso noob) e as tecnologias que estou aprendendo são:
 
 <div style="display: inline_block"><br>
 <a href="https://github.com/"><img height= "35" src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
