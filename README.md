@@ -4,7 +4,7 @@ Tenho formação em **História** e **Gastronomia**. Recentemente comecei a estu
 
 <div>
   <a href="https://github.com/Julio-mello">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Mello&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Julio-Mello&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
