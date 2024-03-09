@@ -16,6 +16,3 @@ Tenho formação em **História** e **Gastronomia**. Recentemente comecei a estu
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </div>
-  
-##
-![Snake animation](https://github.com/Julio-Mello/Julio-Mello/blob/output/github-contribution-grid-snake.svg)
